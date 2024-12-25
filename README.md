@@ -11,7 +11,7 @@
 ## 💻 Technical Skills
 
 **Languages/Databases:**  
-C#, Python, Java, R, C, C++, SQL, JavaScript, MySQL, Oracle, MongoDB, PostgreSQL
+C#, Python, Java, C, C++, SQL, JavaScript, MySQL, Oracle, MongoDB, PostgreSQL
 
 **Frameworks/Tools:**  
 .Net, React, Flask, NUnit, Unix, AWS, GCP, Kubernetes, Docker, Git, GitLab, Informatica, GraphQL, JIRA, Splunk
