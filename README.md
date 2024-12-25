@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 
-**Master of Science in Computer Science, Florida Atlantic University | GPA: 3.9**
+**Master of Science in Computer Science, Florida Atlantic University 
 
 ## 🏅 Certifications
 
