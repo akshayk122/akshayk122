@@ -6,7 +6,7 @@
 
 ## 🏅 Certifications
 
-- **AWS Certified Solutions Architect**
+- **AWS Certified Developer Associate**
 
 ## 💻 Technical Skills
 
