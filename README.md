@@ -1,6 +1,6 @@
 ## Hi there, I'm Akshay! 👋
 
-## Summary
+## 👨‍💻 Summary
 Results-driven AI Full Stack Engineer with 5 years of experience in developing, deploying, and scaling AI-driven applications. Expertise in LLMs, NLP, TensorFlow, Kubernetes, and cloud platforms (AWS, GCP). Proficient in backend development with .NET Core, Django, SQL Server, PostgreSQL, and MongoDB, alongside strong experience in REST APIs and microservices. Skilled in automating infrastructure and optimizing AI workflows to deliver high-performance, innovative solutions.
 
 
@@ -17,7 +17,12 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white) / ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)  ![.NET](https://img.shields.io/badge/-ASP.Net_Core-512BD4?&logo=dotnet&logoColor=white)  
 
 ### **Cloud Platforms & Services**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white) *(EC2, S3, Lambda, RDS, DynamoDB)* ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?&logo=Google-Cloud&logoColor=white) *(App Engine, Compute Engine, BigQuery)*  
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)     ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon-EC2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon-S3&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=Amazon-Lambda&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white)    ![App Engine](https://img.shields.io/badge/App%20Engine-FF7F00?style=flat&logo=Google-App-Engine&logoColor=white) ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-0A9CFC?style=flat&logo=Google-Compute-Engine&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-00A9D8?style=flat&logo=Google-BigQuery&logoColor=white)
+
+
+
 
 ### **ML/Gen AI Frameworks**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?&logo=scikit-learn&logoColor=white)  
