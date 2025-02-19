@@ -48,6 +48,7 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 💾 **Virtualization:** VMware, VirtualBox  
 
 
+
 ## 👨‍💻 Professional Experience
 
 ### **Eli Lilly and Company, India** | *Software Engineer*  
@@ -100,5 +101,8 @@ Technologies: LLMs, Python, NLP, API Integration, Data Retrieval, Flask, Google 
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/akshayk22)
-[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:iamakshayk22@gmail.com)
+## 🔗 Connect with Me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:iamakshayk22@gmail.com)  
+![Phone](https://img.shields.io/badge/-Phone-25D366?&logo=WhatsApp&logoColor=white) [+1-555-1234](tel:+15615283703)
+
