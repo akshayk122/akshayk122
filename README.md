@@ -26,7 +26,7 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 ### **ML/Gen AI Frameworks**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?&logo=scikit-learn&logoColor=white)  
-📖 **NLTK** 🧠 **LLMs, LangChain, OpenAI, CrewAI, CipherQL**  
+📖 NLP 🧠 LLMs, LangChain, OpenAI, CrewAI, CipherQL
 
 ### **DevOps & CI/CD**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)  
@@ -34,18 +34,17 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 ### **Databases & Data Engineering**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?&logo=apache-cassandra&logoColor=white), ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?&logo=Amazon-DynamoDB&logoColor=white)  
-**Redis, Apache Kafka, AWS Glue**  
+Redis, Apache Kafka, AWS Glue
 
 ### **Software Design & Architecture**  
-🔹 **Microservices**  🔹 **RESTful APIs, GraphQL**  🔹 **Message Queues:** ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?&logo=Amazon-AWS&logoColor=white)  
+🔹 Microservices  🔹 RESTful APIs, GraphQL  🔹 Message Queues: ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?&logo=Amazon-AWS&logoColor=white)  
 
 ### **Agile & Collaboration Tools**  
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?&logo=JIRA&logoColor=white)  
-**Agile/Scrum Methodologies**  
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?&logo=JIRA&logoColor=white) Agile/Scrum Methodologies**  
 
 ### **Operating Systems & Development Environments**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  
-💾 **Virtualization:** VMware, VirtualBox  
+💾 Virtualization: VMware, VirtualBox  
 
 
 
