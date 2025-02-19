@@ -5,29 +5,42 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 
 ## 🏅 Certifications
-
-- **AWS Certified Developer Associate**🏆
-
-## 💻 Technical Skills
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)](https://www.credly.com/badges/909d0a38-595f-4730-9458-46bb6a411ff0)
 
 
-**Core Languages:** Python, JavaScript, R, C#
+## 💻 Technical Skills  
 
-**Web Development Frameworks:** Django/Flask, React.js, HTML5, CSS3, ASP.Net Core, MVC
+### **Core Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)  ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?&logo=Csharp&logoColor=white)  
 
-**Cloud Platforms & Services:** AWS (EC2, S3, Lambda, RDS, DynamoDB), GCP (App Engine, Compute Engine, Big Query)
+### **Web Development Frameworks**  
+![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white) / ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)  ![.NET](https://img.shields.io/badge/-ASP.Net_Core-512BD4?&logo=dotnet&logoColor=white)  
 
-**ML/Gen AI Frameworks:** Pandas, NumPy, TensorFlow, Scikit-Learn, NLTK, LLMs, LangChain, OpenAI, CrewAI, CipherQL
+### **Cloud Platforms & Services**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white) *(EC2, S3, Lambda, RDS, DynamoDB)* ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?&logo=Google-Cloud&logoColor=white) *(App Engine, Compute Engine, BigQuery)*  
 
-**DevOps & CI/CD:** Docker, Kubernetes, Jenkins, Git, Terraform
+### **ML/Gen AI Frameworks**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?&logo=scikit-learn&logoColor=white)  
+📖 **NLTK** 🧠 **LLMs, LangChain, OpenAI, CrewAI, CipherQL**  
 
-**Databases & Data Engineering:** SQL (MySQL, PostgreSQL,SQL Server), NoSQL (MongoDB, Cassandra, DynamoDB), Redis, Apache Kafka, AWS Glue
+### **DevOps & CI/CD**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white)  
 
-**Software Design & Architecture:** Microservices, RESTful APIs, GraphQL, Message Queues (RabbitMQ, AWS SQS)
+### **Databases & Data Engineering**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?&logo=apache-cassandra&logoColor=white), ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?&logo=Amazon-DynamoDB&logoColor=white)  
+**Redis, Apache Kafka, AWS Glue**  
 
-**Agile & Collaboration Tools:** Agile/Scrum Methodologies, JIRA.
+### **Software Design & Architecture**  
+🔹 **Microservices**  🔹 **RESTful APIs, GraphQL**  🔹 **Message Queues:** ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?&logo=Amazon-AWS&logoColor=white)  
 
-**Operating Systems & Development Environments:** Linux/Unix, Windows, Virtualization (VMware, VirtualBox)
+### **Agile & Collaboration Tools**  
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?&logo=JIRA&logoColor=white)  
+**Agile/Scrum Methodologies**  
+
+### **Operating Systems & Development Environments**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  
+💾 **Virtualization:** VMware, VirtualBox  
 
 
 ## 👨‍💻 Professional Experience
