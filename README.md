@@ -87,13 +87,6 @@ Florida Atlantic University, Boca Raton, USA.
 **Bachelors in Computer Science**| GPA: 7.5/10
 Visvesvaraya Technological University, Belagavi, India.
 
-## 🚀 Projects
-
-**Generative AI Based Student Assistant**  
-Technologies: LLMs, Python, NLP, API Integration, Data Retrieval, Flask, Google Cloud, Cloud Run
-- Developed an AI-powered assistant for student interactions, integrating APIs for efficient data retrieval and processing.
-- Created a multi-agent system within the assistant, allowing seamless collaboration between various agents to handle diverse student queries.
-
 ## 📈 GitHub Stats
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayk122&show_icons=true&theme=radical&custom_title=Akshay's%20GitHub%20Stats)
