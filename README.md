@@ -99,10 +99,9 @@ Technologies: LLMs, Python, NLP, API Integration, Data Retrieval, Flask, Google 
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayk122&show_icons=true&theme=radical&custom_title=Akshay's%20GitHub%20Stats)
 
-## 🔗 Connect with Me
 
 ## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:iamakshayk22@gmail.com)  
-![Phone](https://img.shields.io/badge/-Phone-25D366?&logo=WhatsApp&logoColor=white) [+1-555-1234](tel:+15615283703)
+[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:iamakshayk22@gmail.com) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=white)](https://wa.me/+15615283703) [![Call](https://img.shields.io/badge/-Call-007BFF?&logo=Phone&logoColor=white)](tel:+15615283703)
+
 
