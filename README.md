@@ -41,17 +41,19 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=flat&logo=docker&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-005571?style=flat&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Message Queues](https://img.shields.io/badge/-Message_Queues-339933?style=flat&logo=rabbitmq&logoColor=white)![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?&logo=Amazon-AWS&logoColor=white)  
 
 ### **Agile & Collaboration Tools**  
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?&logo=JIRA&logoColor=white) Agile/Scrum Methodologies**  
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?&logo=JIRA&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-FF9900?style=flat&logo=scrumalliance&logoColor=white)
 
 ### **Operating Systems & Development Environments**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 
 ## 🎓 Education
-**Masters in Computer Science** | GPA: 3.9/4
-Florida Atlantic University, Boca Raton, USA.
-**Bachelors in Computer Science**| GPA: 7.5/10
-Visvesvaraya Technological University, Belagavi, India.
+**Masters in Computer Science** |Florida Atlantic University, Boca Raton, USA.| GPA: 3.9/4
+
+
+**Bachelors in Computer Science**|Visvesvaraya Technological University, Belagavi, India.| GPA: 7.5/10
+
 
 ## 📈 GitHub Stats
 
