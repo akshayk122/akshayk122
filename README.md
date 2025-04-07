@@ -57,7 +57,7 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 ## 📈 GitHub Stats
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayk122&show_icons=true&theme=radical&custom_title=Akshay's%20GitHub%20Stats)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayk122&show_icons=true&theme=radical&custom_title=Akshay's%20Development%20Activity&include_all_commits=true&count_private=true&show=reviews,discussions_started)]
 
 
 ## 🔥 Top Languages
