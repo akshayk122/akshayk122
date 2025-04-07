@@ -26,7 +26,8 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 ### **ML/Gen AI Frameworks**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?&logo=scikit-learn&logoColor=white)  
-📖 NLP 🧠 LLMs, LangChain, OpenAI, CrewAI, CipherQL
+![NLP](https://img.shields.io/badge/NLP-8A2BE2) ![LLMs](https://img.shields.io/badge/LLMs-FFD43B) ![LangChain](https://img.shields.io/badge/LangChain-00A67D) ![OpenAI](https://img.shields.io/badge/OpenAI-412991) ![CrewAI](https://img.shields.io/badge/CrewAI-6E2C00) ![CipherQL](https://img.shields.io/badge/CipherQL-4B0082)
+
 
 ### **DevOps & CI/CD**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)  
@@ -34,17 +35,16 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 ### **Databases & Data Engineering**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?&logo=apache-cassandra&logoColor=white), ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?&logo=Amazon-DynamoDB&logoColor=white)  
-Redis, Apache Kafka, AWS Glue
+![Redis](https://img.shields.io/badge/-Redis-DC382D) ![Kafka](https://img.shields.io/badge/-Kafka-231F20) ![AWS Glue](https://img.shields.io/badge/-AWS_Glue-FF9900)
 
 ### **Software Design & Architecture**  
-🔹 Microservices  🔹 RESTful APIs, GraphQL  🔹 Message Queues: ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?&logo=Amazon-AWS&logoColor=white)  
+![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=flat&logo=docker&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-005571?style=flat&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Message Queues](https://img.shields.io/badge/-Message_Queues-339933?style=flat&logo=rabbitmq&logoColor=white)![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?&logo=Amazon-AWS&logoColor=white)  
 
 ### **Agile & Collaboration Tools**  
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?&logo=JIRA&logoColor=white) Agile/Scrum Methodologies**  
 
 ### **Operating Systems & Development Environments**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  
-💾 Virtualization: VMware, VirtualBox  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 
 ## 🎓 Education
