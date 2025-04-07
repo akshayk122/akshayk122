@@ -11,7 +11,7 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 ## 💻 Technical Skills  
 
 ### **Core Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)  ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?&logo=Csharp&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?&logo=Csharp&logoColor=white)  
 
 ### **Web Development Frameworks**  
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white) / ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)  ![.NET](https://img.shields.io/badge/-ASP.Net_Core-512BD4?&logo=dotnet&logoColor=white)  
