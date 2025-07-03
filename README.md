@@ -72,6 +72,5 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 ## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:iamakshayk22@gmail.com) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?&logo=WhatsApp&logoColor=white)](https://wa.me/+15615283703) [![Call](https://img.shields.io/badge/-Call-007BFF?&logo=Phone&logoColor=white)](tel:+15615283703)
-
+[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:iamakshayk22@gmail.com)
 
