@@ -52,7 +52,7 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 **Masters in Computer Science** |Florida Atlantic University, Boca Raton, USA
 
 
-**Bachelors in Computer Science**|Visvesvaraya Technological University, Belagavi, India.| GPA: 7.5/10
+**Bachelors in Computer Science**|Visvesvaraya Technological University, Belagavi, India
 
 
 ## 📈 GitHub Stats
