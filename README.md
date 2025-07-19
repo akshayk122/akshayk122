@@ -57,8 +57,9 @@ Results-driven AI Full Stack Engineer with 5 years of experience in developing, 
 
 
 ## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayk122&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayk122&layout=compact&theme=radical)
+
 
 ## 📊 GitHub Contribution Streak
 
