@@ -1,7 +1,7 @@
 ## Hi there, I'm Akshay Kumar! 👋
 
 ## 👨‍💻 Summary
-Results-driven AI Full Stack Engineer with 5 years of experience in developing, deploying, and scaling AI-driven applications. Expertise in LLMs, NLP, TensorFlow, Kubernetes, and cloud platforms (AWS, GCP). Proficient in backend development with .NET Core, Django, SQL Server, PostgreSQL, and MongoDB, alongside strong experience in REST APIs and microservices. Skilled in automating infrastructure and optimizing AI workflows to deliver high-performance, innovative solutions.
+Software Engineer with 5+ years of experience developing scalable AI-driven systems and backend architectures. Expert in GenAI, LLMs, microservices, and cloud platforms, delivering intelligent automation across industries.
 
 
 ## 🏅 Certifications
