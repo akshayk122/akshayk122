@@ -25,10 +25,9 @@ I design and build **Agentic AI architectures** and **scalable backend systems**
 class AkshayKumar:
     def __init__(self):
         self.role = "Founding AI Engineer @ Kplor"
-        self.location = "Chicago, IL"
         self.experience = "5+ years"
         self.specialization = ["Agentic AI", "RAG Systems", "Microservices", "Cloud Architecture"]
-        self.impact = "Reduced manual intervention by 70%, support resolution by 75%"
+        self.passion = "Building autonomous systems that think and act intelligently"
         
     def get_expertise(self):
         return {
