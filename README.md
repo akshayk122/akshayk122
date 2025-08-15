@@ -19,14 +19,14 @@ Software Engineer with 5+ years of experience developing scalable AI-driven syst
 
 ### **Cloud Platforms & Services**  
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)     ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon-EC2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon-S3&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=Amazon-Lambda&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon-EC2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon-S3&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=Amazon-Lambda&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white)    ![App Engine](https://img.shields.io/badge/App%20Engine-FF7F00?style=flat&logo=Google-App-Engine&logoColor=white) ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-0A9CFC?style=flat&logo=Google-Compute-Engine&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-00A9D8?style=flat&logo=Google-BigQuery&logoColor=white)
 
 
 
 
 ### **ML/Gen AI Frameworks**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?&logo=scikit-learn&logoColor=white)  
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2) ![LLMs](https://img.shields.io/badge/LLMs-FFD43B) ![LangChain](https://img.shields.io/badge/LangChain-00A67D) ![OpenAI](https://img.shields.io/badge/OpenAI-412991) ![CrewAI](https://img.shields.io/badge/CrewAI-6E2C00) ![CipherQL](https://img.shields.io/badge/CipherQL-4B0082)
 
 
