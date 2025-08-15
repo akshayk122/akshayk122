@@ -1,75 +1,124 @@
+# Hey, I'm Akshay Kumar 👨‍💻
 
-## Hi there, I'm Akshay Kumar! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&color=blue)
-## 👨‍💻 Summary
-Software Engineer with 5+ years of experience developing scalable AI-driven systems and backend architectures. Expert in GenAI, LLMs, microservices, and cloud platforms, delivering intelligent automation across industries.
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&color=gradient&style=for-the-badge)
+
+**🚀 Founding AI Engineer | Agentic AI Architect | Backend Systems Expert**
+
+*Transforming complex problems into intelligent solutions with 5+ years of expertise in GenAI, LLMs, and scalable AI-driven systems*
+
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white&labelColor=232F3E)](https://www.credly.com/badges/909d0a38-595f-4730-9458-46bb6a411ff0)
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akshayajk22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayk225)
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+I design and build **Agentic AI architectures** and **scalable backend systems** that deliver intelligent automation at enterprise scale. Currently leading AI innovation at **Kplor** as Founding AI Engineer, with proven experience at **Eli Lilly**, **CGI**, and **Atyati Technologies**.
+
+```python
+class AkshayKumar:
+    def __init__(self):
+        self.role = "Founding AI Engineer @ Kplor"
+        self.location = "Chicago, IL"
+        self.experience = "5+ years"
+        self.specialization = ["Agentic AI", "RAG Systems", "Microservices", "Cloud Architecture"]
+        self.impact = "Reduced manual intervention by 70%, support resolution by 75%"
+        
+    def get_expertise(self):
+        return {
+            "ai_frameworks": ["LangChain", "LangGraph", "CrewAI", "AutoGen", "RAG", "MCP"],
+            "ml_stack": ["TensorFlow", "PyTorch", "Scikit-learn", "SageMaker", "Bedrock", "Vertex AI"],
+            "languages": ["Python", "JavaScript", "TypeScript", "C#", "GraphQL"],
+            "backend": ["FastAPI", "Django", "Flask", "Microservices", "RESTful APIs"],
+            "frontend": ["React.js", "Next.js", "TypeScript"],
+            "cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "ChromaDB", "Pinecone", "Elasticsearch"],
+            "vector_dbs": ["ChromaDB", "Pinecone", "Supabase"],
+            "devops": ["Jenkins", "GitHub Actions", "Ansible", "Splunk"]
+        }
+    
+    def current_mission(self):
+        return "Building the future of autonomous AI systems! 🤖✨"
+```
+
+## 💻 Technical Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67D?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6E2C00?style=for-the-badge&logo=robot&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshayk122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshayk122&layout=compact&theme=tokyonight&hide=jupyter%20notebook&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshayk122&theme=tokyonight&hide_border=true&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayk122&theme=tokyo-night&hide_border=true&border_radius=16"/>
+</div>
+
+---
+
+## 🎓 Academic Excellence
+
+**🎓 Master of Science in Computer Science**  
+*Florida Atlantic University, Boca Raton, FL* | **December 2024**
+
+**🎓 Bachelor of Engineering in Computer Science**  
+*Visvesvaraya Technological University, Bangalore, India* | **June 2019**
 
 
-## 🏅 Certifications
-[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)](https://www.credly.com/badges/909d0a38-595f-4730-9458-46bb6a411ff0)
+<div align="center">
 
+### 🤝 Let's Build Something Amazing Together!
 
-## 💻 Technical Skills  
+*"The best way to predict the future is to invent it, especially when it involves making AI work for everyone."*
 
-### **Core Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?&logo=Csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white)  
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akshayajk22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayk225)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayk122)
 
-### **Web Development Frameworks**  
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white) / ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)  ![.NET](https://img.shields.io/badge/-ASP.Net_Core-512BD4?&logo=dotnet&logoColor=white)
+</div>
 
+---
 
-### **Cloud Platforms & Services**  
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon-EC2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon-S3&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=Amazon-Lambda&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white)    ![App Engine](https://img.shields.io/badge/App%20Engine-FF7F00?style=flat&logo=Google-App-Engine&logoColor=white) ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-0A9CFC?style=flat&logo=Google-Compute-Engine&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-00A9D8?style=flat&logo=Google-BigQuery&logoColor=white)
-
-
-
-
-### **ML/Gen AI Frameworks**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?&logo=scikit-learn&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-8A2BE2) ![LLMs](https://img.shields.io/badge/LLMs-FFD43B) ![LangChain](https://img.shields.io/badge/LangChain-00A67D) ![OpenAI](https://img.shields.io/badge/OpenAI-412991) ![CrewAI](https://img.shields.io/badge/CrewAI-6E2C00) ![CipherQL](https://img.shields.io/badge/CipherQL-4B0082)
-
-
-### **DevOps & CI/CD**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white)  
-
-### **Databases & Data Engineering**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?&logo=apache-cassandra&logoColor=white), ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?&logo=Amazon-DynamoDB&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D) ![Kafka](https://img.shields.io/badge/-Kafka-231F20) ![AWS Glue](https://img.shields.io/badge/-AWS_Glue-FF9900)
-
-### **Software Design & Architecture**  
-![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=flat&logo=docker&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-005571?style=flat&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Message Queues](https://img.shields.io/badge/-Message_Queues-339933?style=flat&logo=rabbitmq&logoColor=white)![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-232F3E?&logo=Amazon-AWS&logoColor=white)  
-
-### **Operating Systems & Development Environments**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-
-
-## 🎓 Education
-**Masters in Computer Science** | Florida Atlantic University, Boca Raton, USA
-
-
-**Bachelors in Computer Science**| Visvesvaraya Technological University, Belagavi, India
-
-
-## 📈 GitHub Stats
-
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayk122&show_icons=true&theme=radical&custom_title=Akshay's%20Development%20Activity&include_all_commits=true&count_private=true&show=reviews,discussions_started)]
-
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayk122&layout=compact&theme=radical&hide=Jupyter%20Notebook)
-
-
-
-## 📊 GitHub Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshayk122&theme=radical)
-
-
-
-## 🔗 Connect with Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:iamakshayk22@gmail.com)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+</div>
