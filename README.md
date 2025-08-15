@@ -7,7 +7,7 @@
 
 **🚀 Founding AI Engineer | Agentic AI Architect | Backend Systems Expert**
 
-*Transforming complex problems into intelligent solutions with 5+ years of expertise in GenAI, LLMs, and scalable AI-driven systems*
+*Transforming complex problems into intelligent solutions with GenAI, LLMs, and scalable AI-driven systems*
 
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white&labelColor=232F3E)](https://www.credly.com/badges/909d0a38-595f-4730-9458-46bb6a411ff0)
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akshayajk22@gmail.com)
@@ -19,7 +19,7 @@
 
 ## 🚀 What I Do
 
-I design and build **Agentic AI architectures** and **scalable backend systems** that deliver intelligent automation at enterprise scale. Currently leading AI innovation at **Kplor** as Founding AI Engineer, with proven experience at **Eli Lilly**, **CGI**, and **Atyati Technologies**.
+I design and build **Agentic AI architectures** and **scalable backend systems** that deliver intelligent automation at enterprise scale. Currently working on AI innovation at **Kplor** as Founding AI Engineer**.
 
 ```python
 class AkshayKumar:
