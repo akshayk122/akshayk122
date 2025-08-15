@@ -96,16 +96,6 @@ class AkshayKumar:
 </div>
 
 ---
-
-## 🎓 Academic Excellence
-
-**🎓 Master of Science in Computer Science**  
-*Florida Atlantic University, Boca Raton, FL*
-
-**🎓 Bachelor of Engineering in Computer Science**  
-*Visvesvaraya Technological University, Bangalore, India*
-
-
 <div align="center">
 
 ### 🤝 Let's Build Something Amazing Together!
