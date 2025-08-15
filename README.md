@@ -1,5 +1,6 @@
-## Hi there, I'm Akshay Kumar! 👋
 
+## Hi there, I'm Akshay Kumar! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&color=blue)
 ## 👨‍💻 Summary
 Software Engineer with 5+ years of experience developing scalable AI-driven systems and backend architectures. Expert in GenAI, LLMs, microservices, and cloud platforms, delivering intelligent automation across industries.
 
