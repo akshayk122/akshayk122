@@ -31,15 +31,12 @@ class AkshayKumar:
         
     def get_expertise(self):
         return {
-            "ai_frameworks": ["LangChain", "LangGraph", "CrewAI", "AutoGen", "RAG", "MCP"],
-            "ml_stack": ["TensorFlow", "PyTorch", "Scikit-learn", "SageMaker", "Bedrock", "Vertex AI"],
-            "languages": ["Python", "JavaScript", "TypeScript", "C#", "GraphQL"],
-            "backend": ["FastAPI", "Django", "Flask", "Microservices", "RESTful APIs"],
-            "frontend": ["React.js", "Next.js", "TypeScript"],
-            "cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "ChromaDB", "Pinecone", "Elasticsearch"],
-            "vector_dbs": ["ChromaDB", "Pinecone", "Supabase"],
-            "devops": ["Jenkins", "GitHub Actions", "Ansible", "Splunk"]
+            "languages": ["Python", "JavaScript", "TypeScript", "C#", "GraphQL", "SQL"],
+            "ai_ml": ["LangChain", "LangGraph", "CrewAI", "AutoGen", "TensorFlow", "PyTorch", "RAG", "MCP"],
+            "web_dev": ["FastAPI", "Django", "Flask", "React.js", "Next.js", "RESTful APIs", "Microservices"],
+            "cloud_devops": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform", "Jenkins", "Ansible"],
+            "data_storage": ["PostgreSQL", "MongoDB", "Redis", "ChromaDB", "Pinecone", "Elasticsearch", "Supabase"],
+            "cloud_ai_tools": ["SageMaker", "Bedrock", "Vertex AI", "Azure AI Foundry"]
         }
     
     def current_mission(self):
