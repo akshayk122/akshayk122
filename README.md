@@ -1,8 +1,9 @@
-# Hey, I'm Akshay Kumar 👨‍💻
 
 <div align="center">
+    
+# Hey, I'm Akshay Kumar 👨‍💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&color=gradient&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&style=for-the-badge)
 
 **🚀 Founding AI Engineer | Agentic AI Architect | Backend Systems Expert**
 
@@ -99,10 +100,10 @@ class AkshayKumar:
 ## 🎓 Academic Excellence
 
 **🎓 Master of Science in Computer Science**  
-*Florida Atlantic University, Boca Raton, FL* | **December 2024**
+*Florida Atlantic University, Boca Raton, FL*
 
 **🎓 Bachelor of Engineering in Computer Science**  
-*Visvesvaraya Technological University, Bangalore, India* | **June 2019**
+*Visvesvaraya Technological University, Bangalore, India*
 
 
 <div align="center">
