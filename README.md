@@ -19,7 +19,7 @@
 
 ## 🚀 What I Do
 
-I design and build **Agentic AI architectures** and **scalable backend systems** that deliver intelligent automation at enterprise scale. Currently working on AI innovation at **Kplor** as Founding AI Engineer**.
+I design and build **Agentic AI architectures** and **scalable backend systems** that deliver intelligent automation at enterprise scale. Currently working on AI innovation at **Kplor** as Founding AI Engineer.
 
 ```python
 class AkshayKumar:
