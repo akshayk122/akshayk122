@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&style=for-the-badge)
 
-**🚀 Founding AI Engineer | Agentic AI Architect | Backend Systems Expert**
+**🚀 Founding AI Engineer | Agentic AI Engineer | Backend Systems Expert**
 
 *Transforming complex problems into intelligent solutions with GenAI, LLMs, and scalable AI-driven systems*
 
