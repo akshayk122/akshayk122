@@ -17,7 +17,7 @@
 
 ---
 
-## What I Do
+## 🧑🏻‍💻 What I Do
 
 I design and build Agentic AI architectures and scalable backend systems that deliver intelligent automation at enterprise scale. My focus is on creating systems where AI agents work autonomously, making decisions and executing complex workflows with precision and reliability.
 
