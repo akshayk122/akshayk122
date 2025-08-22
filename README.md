@@ -40,7 +40,7 @@ class AkshayKumar:
         }
     
     def current_mission(self):
-        return "Building the future of autonomous AI systems! 🤖✨"
+        return "Building the future of autonomous AI systems!"
 ```
 
 ## 💻 Technical Arsenal
