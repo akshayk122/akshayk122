@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&style=for-the-badge)
 
-** AI Developer |  Generative AI & Agentic AI| Cloud and Backend Systems Expert**
+** AI Developer |  Generative AI & Agentic AI| Cloud and Backend Systems Expert **
 
 *Transforming complex problems into intelligent solutions with GenAI, LLMs, and scalable AI-driven systems*
 
