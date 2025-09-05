@@ -94,7 +94,7 @@ class AkshayKumar:
 ---
 <div align="center">
 
-### 🤝 Let's Build Something Amazing Together!
+### 🤝 Let's Build Something Together!
 
 *"The best way to predict the future is to invent it, especially when it involves making AI work for everyone."*
 
