@@ -43,7 +43,7 @@ class AkshayKumar:
         return "Building the future of autonomous AI systems!"
 ```
 
-## 💻 Technical Arsenal
+## 💻 Tech Stack
 
 <div align="center">
 
