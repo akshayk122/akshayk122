@@ -74,8 +74,6 @@ class AkshayKumar:
 
 ---
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
