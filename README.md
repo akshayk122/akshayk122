@@ -34,7 +34,7 @@ class AkshayKumar:
             "languages": ["Python", "JavaScript", "TypeScript", "C#", "GraphQL", "SQL"],
             "ai_ml": ["LangChain", "LangGraph", "CrewAI", "AutoGen", "TensorFlow", "PyTorch", "RAG", "MCP", "ACP"],
             "web_dev": ["FastAPI", "Django", "Flask", "React.js", "Next.js", "RESTful APIs", "Microservices"],
-            "cloud_devops": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform", "Jenkins", "Ansible"],
+            "cloud_devops": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform", "Jenkins"],
             "data_storage": ["PostgreSQL", "MongoDB", "Redis", "ChromaDB", "Pinecone", "Elasticsearch", "Supabase"],
             "cloud_ai_tools": ["SageMaker", "Bedrock", "Vertex AI", "Azure AI Foundry"]
         }
