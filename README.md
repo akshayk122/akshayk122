@@ -7,7 +7,7 @@
 
 **AI Developer |  Generative AI & Agentic AI | Cloud and Backend Systems**
 
-*Transforming complex problems into intelligent solutions with AI, LLMs, Agentic AI and scalable AI-driven systems*
+*Transforming complex problems into intelligent solutions with AI, LLMs, Agentic AI, and scalable AI-driven systems*
 
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white&labelColor=232F3E)](https://www.credly.com/badges/909d0a38-595f-4730-9458-46bb6a411ff0)
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akshayajk22@gmail.com)
