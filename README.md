@@ -1,7 +1,7 @@
 
 <div align="center">
     
-# Hey, I'm Akshay Kumar
+# Hey, I'm Akshay
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshayk122&style=for-the-badge)
 
