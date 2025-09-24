@@ -26,7 +26,7 @@ class AkshayKumar:
     def __init__(self):
         self.role = "Founding AI Engineer @ Kplor"
         self.experience = "5+ years"
-        self.specialization = ["Backend Systems", "Agentic AI", "RAG Systems", "Microservices", "Cloud Architecture"]
+        self.specialization = ["Backend Systems", "Agentic AI", "RAG Systems", "Cloud Architecture"]
         self.passion = "Building agentinc systems that think and act intelligently"
         
     def get_expertise(self):
