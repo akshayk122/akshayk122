@@ -2,7 +2,7 @@
 
 # Akshay Kumar
 
-**Founding AI Engineer @ Kplor · Agentic AI · RAG Systems · Cloud-Native Backends**
+**AI Engineer · Agentic AI · RAG Systems · Cloud-Native Backends**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:akshayajk22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayk225)
@@ -21,7 +21,7 @@ $ agent run --task "introduce akshay" --trace
 > tool_call: get_identity()
 < {
 <   "name": "Akshay Kumar",
-<   "role": "Founding AI Engineer @ Kplor",
+<   "role": "AI Engineer",
 <   "experience_years": 5,
 <   "focus": ["Agentic AI", "RAG Systems", "Cloud Architecture", "Backend Systems"]
 < }
