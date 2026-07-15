@@ -44,8 +44,16 @@ $ agent run --task "introduce akshay" --trace
 < "Design autonomous systems that reason, decide, and act reliably — at scale,
 <  without a human in every loop."
 
-[00:00.40] no blockers found. status: ONLINE
-[00:00.41] agent.ready_for(collaboration=True)
+[00:00.40] mission loaded. checking current_focus() ...
+
+> tool_call: get_current_focus()
+< {
+<   "learning":  "Rust — systems programming, memory safety without a GC",
+<   "building":  "Agentic AI systems that plan, call tools, and self-correct"
+< }
+
+[00:00.55] no blockers found. status: ONLINE
+[00:00.56] agent.ready_for(collaboration=True)
 ```
 
 ---
