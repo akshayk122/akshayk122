@@ -53,7 +53,7 @@ $ agent run --task "introduce akshay" --trace
 < }
 
 [00:00.55] no blockers found. status: ONLINE
-[00:00.56] agent.await_task(source="you")   # ← this means hire me
+[00:00.56] agent.await_task(source="you") # ← this means hire me
 ```
 
 ---
