@@ -13,6 +13,9 @@
 ---
 
 ```text
+## `> agent run --task "introduce akshay" --trace`
+
+```console
 $ agent run --task "introduce akshay" --trace
 
 [00:00.01] agent.boot()
@@ -53,7 +56,8 @@ $ agent run --task "introduce akshay" --trace
 < }
 
 [00:00.55] no blockers found. status: ONLINE
-[00:00.56] agent.ready_for(collaboration=True)
+[00:00.56] agent.await_task(source="you")   # ← this means hire me
+```
 ```
 
 ---
