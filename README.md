@@ -22,7 +22,7 @@ $ agent run --task "introduce akshay" --trace
 < {
 <   "name": "Akshay Kumar",
 <   "role": "AI Engineer",
-<   "experience_years": 5,
+<   "experience_years": 6+,
 <   "focus": ["Agentic AI", "RAG Systems", "Cloud Architecture", "Backend Systems"]
 < }
 
@@ -30,11 +30,11 @@ $ agent run --task "introduce akshay" --trace
 
 > tool_call: get_capabilities()
 < {
-<   "languages":   ["Python", "TypeScript", "JavaScript", "C#", "SQL", "GraphQL"],
+<   "languages":   ["Python", "JavaScript", "C#", "SQL", "GraphQL"],
 <   "agentic_ai":  ["LangChain", "LangGraph", "CrewAI", "AutoGen", "MCP", "ACP"],
 <   "ml_infra":    ["RAG", "TensorFlow", "PyTorch", "SageMaker", "Bedrock", "Vertex AI"],
 <   "backend":     ["FastAPI", "Django", "Flask", "Microservices", "REST"],
-<   "cloud":       ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform"],
+<   "cloud":       ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
 <   "data":        ["PostgreSQL", "MongoDB", "Redis", "Pinecone", "ChromaDB", "Elasticsearch"]
 < }
 
