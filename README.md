@@ -1,6 +1,6 @@
 <div align="center">
 
-# Akshay..
+# Akshay Kumar..
 
 **AI Engineer · Agentic AI · RAG Systems · Cloud-Native Backends**
 
