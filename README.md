@@ -68,6 +68,7 @@ $ agent run --task "introduce akshay" --trace
 <div align="center">
 
 *"The best way to predict the future is to invent it — especially when that means teaching AI to act on its own."*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayk225)
 
 </div>
