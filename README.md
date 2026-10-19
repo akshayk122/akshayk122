@@ -61,9 +61,8 @@ $ agent run --task "introduce akshay" --trace
 <div align="center">
 
 ### 📡 Live Telemetry
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshayk122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_title=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=akshayk122&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayk122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_title=true" height="165em" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=akshayk122&theme=tokyonight&hide_border=true&border_radius=10" height="165em" alt="GitHub Streak" />
 
 </div>
 
