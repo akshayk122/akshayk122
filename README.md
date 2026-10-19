@@ -4,9 +4,6 @@
 
 **AI Engineer · Agentic AI · RAG Systems · Cloud-Native Backends**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:akshayajk22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykk22/)
-[![AWS Certified](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)](https://www.credly.com/badges/909d0a38-595f-4730-9458-46bb6a411ff0)
 
 </div>
 
@@ -71,8 +68,6 @@ $ agent run --task "introduce akshay" --trace
 <div align="center">
 
 *"The best way to predict the future is to invent it — especially when that means teaching AI to act on its own."*
-
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akshayajk22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayk225)
 
 </div>
